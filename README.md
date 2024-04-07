@@ -1,2 +1,1 @@
-# kumajwtsample
 # kumajwt2
